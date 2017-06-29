@@ -1,0 +1,45 @@
+2017-05-23 23:47:51 INFO  SearchProduct:25 -Reading the data from the exel file
+2017-05-23 23:47:52 INFO  SearchProduct:45 -ashu
+2017-05-23 23:47:52 INFO  HomePage:34 -All web elements are intislised
+2017-05-23 23:47:56 INFO  SearchProduct:59 -Webdriver is going quite
+2017-05-23 23:55:52 INFO  SearchProduct:25 -Reading the data from the exel file
+2017-05-23 23:55:53 INFO  SearchProduct:45 -ashu
+2017-05-23 23:55:53 INFO  HomePage:34 -All web elements are intislised
+2017-05-23 23:55:57 INFO  SearchProduct:59 -Webdriver is going quite
+2017-05-25 08:30:30 INFO  HomePage:34 -All web elements are intislised
+2017-05-25 20:36:10 INFO  TestBase:39 -Log 4j object ia createdlog4j.properties
+2017-05-25 20:36:11 INFO  TestBase:122 -Trying to get the excel path to read the data  from excel file
+2017-05-25 20:36:11 INFO  TestBase:125 -Successfully read the excel file[[Ljava.lang.String;@340da44c
+2017-05-25 20:36:11 INFO  TestBase:43 -verifyLogin method started to verify the test
+2017-05-25 20:36:11 INFO  HomePage:34 -All web elements are intislised successfully
+2017-05-25 20:36:13 INFO  HomePage:45 -Product Name successfully Entered
+2017-05-25 20:36:14 INFO  HomePage:49 -Product Name successfully searched
+2017-05-25 20:36:16 INFO  TestBase:49 -SearchProduct method started to verify the test
+2017-05-25 20:36:17 INFO  TestBase:57 -Browser closed quite successfully
+2017-05-25 20:43:53 INFO  TestBase:39 -Log 4j object ia createdlog4j.properties
+2017-05-25 20:43:54 INFO  TestBase:122 -Trying to get the excel path to read the data  from excel file
+2017-05-25 20:43:54 INFO  TestBase:125 -Successfully read the excel file[[Ljava.lang.String;@340da44c
+2017-05-25 20:43:54 INFO  TestBase:43 -verifyLogin method started to verify the test
+2017-05-25 20:43:54 INFO  HomePage:34 -All web elements are intislised successfully
+2017-05-25 20:43:55 INFO  HomePage:45 -Product Name successfully Entered
+2017-05-25 20:43:56 INFO  HomePage:49 -Product Name successfully searched
+2017-05-25 20:43:58 INFO  TestBase:49 -SearchProduct method started to verify the test
+2017-05-25 20:43:59 INFO  TestBase:57 -Browser closed quite successfully
+2017-05-25 20:51:57 INFO  TestBase:39 -Log 4j object ia createdlog4j.properties
+2017-05-25 20:51:58 INFO  TestBase:122 -Trying to get the excel path to read the data  from excel file
+2017-05-25 20:51:58 INFO  TestBase:125 -Successfully read the excel file[[Ljava.lang.String;@340da44c
+2017-05-25 20:51:58 INFO  VerifyLogin:43 -verifyLogin method started to verify the test
+2017-05-25 20:51:58 INFO  HomePage:34 -All web elements are intislised successfully
+2017-05-25 20:52:00 INFO  HomePage:45 -Product Name successfully Entered
+2017-05-25 20:52:00 INFO  HomePage:49 -Product Name successfully searched
+2017-05-25 20:52:02 INFO  VerifyLogin:49 -SearchProduct method started to verify the test
+2017-05-25 20:52:03 INFO  VerifyLogin:57 -Browser closed quite successfully
+2017-05-25 21:01:08 INFO  TestBase:39 -Log 4j object ia createdlog4j.properties
+2017-05-25 21:01:09 INFO  TestBase:126 -Trying to get the excel path to read the data  from excel file
+2017-05-25 21:01:09 INFO  TestBase:129 -Successfully read the excel file[[Ljava.lang.String;@340da44c
+2017-05-25 21:01:09 INFO  VerifyLogin:44 -================verifyLogin method started to verify the test===============
+2017-05-25 21:01:09 INFO  HomePage:34 -All web elements are intislised successfully
+2017-05-25 21:01:10 INFO  HomePage:45 -Product Name successfully Entered
+2017-05-25 21:01:11 INFO  HomePage:49 -Product Name successfully searched
+2017-05-25 21:01:13 INFO  VerifyLogin:50 -================verifyLogin method End to verify the test===============
+2017-05-25 21:01:13 INFO  VerifyLogin:58 -Browser closed successfully
